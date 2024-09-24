@@ -25,6 +25,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portelavieira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<br>
+
 ### Habilidades e Ferramentas 🖥️
 <div align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
@@ -42,12 +44,16 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> 
 </div>
 
+<br>
+
 ### Estudando 📖
 <div align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
   <a href="https://unity.com/pt" target="_blank" rel="noreferrer" title="Unity"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 </div>
+
+<br>
 
 ### Contatos 📨
 <div align="center">
